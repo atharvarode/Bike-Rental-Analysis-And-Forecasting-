@@ -20,6 +20,7 @@ Implemented the following Time Series Forecasting models:
 4. **SARIMA (Seasonal ARIMA) Model**
 
 Compared the models based on Mean Squared Error (MSE) to evaluate their accuracy in predicting future rental counts.
+
 <img width="559" alt="Screenshot 2023-11-06 174221" src="https://github.com/atharvarode/Bike-Rental-Analysis-And-Forecasting-/assets/97606863/1904bf83-091f-4deb-b21a-110040b03f07">
 
 ## Technologies Used
